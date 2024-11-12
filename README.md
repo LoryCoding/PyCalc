@@ -1,7 +1,7 @@
 # PyCalc
 Pycalc is a calculator developed in python. The calculator has basic functions and a user interface.
 - **Current version:** 1.0
-- **Developer:** Lorenzo Di Marzo
+- **Developer:** Lorydima
 
 # PyCalc V1.0
 <div align="center">
